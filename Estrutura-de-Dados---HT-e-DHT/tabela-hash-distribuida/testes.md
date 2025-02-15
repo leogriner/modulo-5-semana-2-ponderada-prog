@@ -3,7 +3,7 @@
 ##  Introdução
 Este documento descreve os 5 principais casos de teste implementados para validar a Distributed Hash Table (DHT) usando o protocolo Chord.
 
-## 🔍 Testes Implementados
+## Testes Implementados
 
 1. **Inserção de Aluno**
    - Insere um aluno na DHT e verifica se ele foi armazenado corretamente.
